@@ -1,4 +1,4 @@
----
+Re---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -15,7 +15,7 @@ Education
 * M.Sc. in Mathematics, National University of Singapore, 2021
 * M.Sc. in Data Science and Machine Learning, National University of Singapore, 2022
 
-Work experience
+Research experience
 ======
 * Spring 2023: Research Intern
   * A*STAR (Agency for Science, Technology and Research).
@@ -39,7 +39,11 @@ Skill Set (Proficient Level)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * On-the-fly Point Feature Representation for Point Clouds Analysis. \
+  **Jiangyi Wang**, Zhongyao Cheng, Hongyuan Zhu, Fayao Liu, Xun Xu, Xulei Yang \
+  *Submit to IEEE Robotics and Automation Letters (**RA-L**) 2024*
+
+  * Improving 3D Occupancy Prediction through Class-balancing Loss and Multi-scale Representation. \
+  Huizhou Chen, **Jiangyi Wang**, Yuxin Li, Xulei Yang \
+  *Submit to IEEE International Conference on Acoustics, Speech, and Signal Processing  (**ICASSP**) 2024*
   
