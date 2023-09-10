@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Papers
+## Papers
 
 * On-the-fly Point Feature Representation for Point Clouds Analysis. \
   **Jiangyi Wang**, Zhongyao Cheng, Hongyuan Zhu, Fayao Liu, Xun Xu, Xulei Yang \
