@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.S. in GitHub, Suzhou University, 2018
 * M.Sc. in Mathematics, National University of Singapore, 2021
 * M.Sc. in Data Science and Machine Learning, National University of Singapore, 2022
 
-Research experience
+## Research experience
 ======
 * Spring 2023: Research Intern
   * A*STAR (Agency for Science, Technology and Research).
@@ -26,7 +26,7 @@ Research experience
   * Supervisor:
     * Dr. [Yang Xulei](https://scholar.google.com.sg/citations?user=tXkwIK8AAAAJ&hl=en).
  
-Skill Set (Proficient Level)
+## Skill Set (Proficient Level)
 ======
 * 2D/3D Computer Vision
 * Machine Learning Theory and Algorithms
@@ -37,7 +37,7 @@ Skill Set (Proficient Level)
   * Non-smooth Optimization: Proximal Gradient (PG) method.
 * Probability Theory and Inference Statistics
 
-Publications
+## Publications
 ======
   * On-the-fly Point Feature Representation for Point Clouds Analysis. \
   **Jiangyi Wang**, Zhongyao Cheng, Hongyuan Zhu, Fayao Liu, Xun Xu, Xulei Yang \
