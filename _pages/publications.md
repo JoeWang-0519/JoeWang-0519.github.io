@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Papers
 
-{% include base_path %}
+* On-the-fly Point Feature Representation for Point Clouds Analysis. \
+  **Jiangyi Wang**, Zhongyao Cheng, Hongyuan Zhu, Fayao Liu, Xun Xu, Xulei Yang \
+  *Submit to IEEE Robotics and Automation Letters (**RA-L**) 2023*
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Improving 3D Occupancy Prediction through Class-balancing Loss and Multi-scale Representation. \
+  Huizhou Chen, **Jiangyi Wang**, Yuxin Li, Xulei Yang \
+  *Submit to IEEE International Conference on Acoustics, Speech, and Signal Processing  (**ICASSP**) 2023*
