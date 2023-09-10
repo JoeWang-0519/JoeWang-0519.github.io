@@ -32,7 +32,7 @@ redirect_from:
 * Optimization Theory
   * Smooth Optimization: GD, SGD, momentum-based SGD (Adam).
   * Non-smooth Optimization: Proximal Gradient (PG) method.
-* Probability Theory and Inference Statistics
+* Probability Theory and Statistical Inference
 
 ## Publications
   * On-the-fly Point Feature Representation for Point Clouds Analysis. \
