@@ -8,7 +8,7 @@ author_profile: true
 ## Papers
 
 * On-the-fly Point Feature Representation for Point Clouds Analysis. \
-  **Jiangyi Wang**, Zhongyao Cheng, Hongyuan Zhu, Fayao Liu, Xun Xu, Xulei Yang \
+  **Jiangyi Wang**, Zhongyao Cheng, Xulei Yang, Zhao Na \
   *Submit to ACM Multimedia (**ACM MM**), 2024.*
 
 * Improving 3D Occupancy Prediction through Class-balancing Loss and Multi-scale Representation. \
